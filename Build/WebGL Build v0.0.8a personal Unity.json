@@ -1,0 +1,13 @@
+{
+"companyName": "StarTroop Inc",
+"productName": "Spacemind",
+"dataUrl": "WebGL Build v0.0.8a personal Unity.data.unityweb",
+"wasmCodeUrl": "WebGL Build v0.0.8a personal Unity.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Build v0.0.8a personal Unity.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
