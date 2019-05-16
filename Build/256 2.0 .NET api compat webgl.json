@@ -1,0 +1,13 @@
+{
+"companyName": "StarTroop Inc",
+"productName": "Spacemind",
+"dataUrl": "256 2.0 .NET api compat webgl.data.unityweb",
+"wasmCodeUrl": "256 2.0 .NET api compat webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "256 2.0 .NET api compat webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
